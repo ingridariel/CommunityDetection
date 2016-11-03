@@ -1,2 +1,2 @@
 # CommunityDetection
-Scripts for Community Detection to OSN datasets
+Scripts for data extraction from Facebook, Twitter and Instagram posts and Community Detection on OSN datasets
